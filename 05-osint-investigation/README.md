@@ -1,6 +1,6 @@
 # OSINT Investigation — Saudi Telecom Company (stc)
 
-**Type:** Hands-on Security Lab
+ Hands-on Security Lab
 
 ## What this is about
 I practiced OSINT (Open-Source Intelligence) — collecting information about a real organization using only public sources, without touching their systems directly. I picked Saudi Telecom Company (stc) as the target since it's a major national provider with a large public footprint.
