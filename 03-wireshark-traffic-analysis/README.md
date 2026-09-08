@@ -1,6 +1,5 @@
 # Network Traffic Analysis using Wireshark
 
-**Type:** Coursework Project
 
 ## What this is about
 I used Wireshark to capture and analyze live network traffic on my machine — the goal was to understand what protocols are actually running in the background, which devices are talking the most, and how much of my traffic is encrypted vs. not.
